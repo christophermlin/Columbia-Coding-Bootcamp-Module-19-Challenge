@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the output of print(2 ** 3)?",
+    "answers": [
+      { "text": "6", "isCorrect": false },
+      { "text": "8", "isCorrect": true },
+      { "text": "9", "isCorrect": false },
+      { "text": "12", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of the following is a mutable data type in Python?",
+    "answers": [
+      { "text": "str", "isCorrect": false },
+      { "text": "tuple", "isCorrect": false },
+      { "text": "list", "isCorrect": true },
+      { "text": "int", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the keyword used to define a function in Python?",
+    "answers": [
+      { "text": "function", "isCorrect": false },
+      { "text": "func", "isCorrect": false },
+      { "text": "def", "isCorrect": true },
+      { "text": "define", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of the following is used to create an empty set?",
+    "answers": [
+      { "text": "{}", "isCorrect": false },
+      { "text": "[]", "isCorrect": false },
+      { "text": "set()", "isCorrect": true },
+      { "text": "()", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of len('hello world')?",
+    "answers": [
+      { "text": "10", "isCorrect": false },
+      { "text": "11", "isCorrect": true },
+      { "text": "12", "isCorrect": false },
+      { "text": "None", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which of the following is not a Python built-in data type?",
+    "answers": [
+      { "text": "list", "isCorrect": false },
+      { "text": "dict", "isCorrect": false },
+      { "text": "array", "isCorrect": true },
+      { "text": "set", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "How do you start a comment in Python?",
+    "answers": [
+      { "text": "//", "isCorrect": false },
+      { "text": "#", "isCorrect": true },
+      { "text": "<!--", "isCorrect": false },
+      { "text": "/*", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the correct file extension for Python files?",
+    "answers": [
+      { "text": ".pyth", "isCorrect": false },
+      { "text": ".pt", "isCorrect": false },
+      { "text": ".py", "isCorrect": true },
+      { "text": ".pyt", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which function is used to get the data type of an object in Python?",
+    "answers": [
+      { "text": "typeof()", "isCorrect": false },
+      { "text": "type()", "isCorrect": true },
+      { "text": "gettype()", "isCorrect": false },
+      { "text": "datatype()", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of print('Hello' + 'World')?",
+    "answers": [
+      { "text": "Hello World", "isCorrect": false },
+      { "text": "HelloWorld", "isCorrect": true },
+      { "text": "Hello+World", "isCorrect": false },
+      { "text": "Error", "isCorrect": false }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "types": ["cypress"],
+    "isolatedModules": false
+  },
+  "include": [
+    "./component/**/*",
+    "./e2e/**/*",
+    "./fixtures/**/*"
+  ]
+}
