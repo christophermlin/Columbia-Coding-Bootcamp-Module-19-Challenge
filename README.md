@@ -53,7 +53,7 @@ Develop/
 - **Fixtures:** `cypress/fixtures/questions.json` matches backend seed data for reliable tests.
 
 ## Walkthrough Video
-[Walkthrough Video Link](https://your-video-link-here)
+[Walkthrough Video Link](https://drive.google.com/file/d/1nXwF59YkOITSJ6EYu0XrADwVO0FBQbIT/view)
 
 ## Notes
 - All configuration files are set to project requirements (ports, proxies, scripts, etc).
